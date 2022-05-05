@@ -50,7 +50,7 @@ h4 {
 
 .header-row {
     position: relative;
-    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url('././img/pexels-nelson-axigoth-5802827.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url('./pexels-nelson-axigoth-5802827.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
