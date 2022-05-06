@@ -680,14 +680,11 @@ h4 {
     font-family: 'Lucida Handwriting';
 }
 @media screen and (max-width:425px) {
-    .message{
+    .message {
         margin-top: 30px;
     }
-    .header {
-        position: relative;
-        width: 100vw;
-        height: 70vh;
-        padding: 0px;
-        overflow: hidden;
+    .enjoy {
+        margin-top: 10px;
     }
+
 }
