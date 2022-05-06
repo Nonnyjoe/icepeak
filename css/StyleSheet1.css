@@ -678,3 +678,15 @@ h4 {
     padding-top: 5px;
     font-family: 'Lucida Handwriting';
 }
+@media screen and (max-width:425px) {
+    .message{
+        margin-top: 30px;
+    }
+    .header {
+        position: relative;
+        width: 100vw;
+        height: 70vh;
+        padding: 0px;
+        overflow: hidden;
+    }
+}
