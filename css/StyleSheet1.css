@@ -320,6 +320,7 @@ h4 {
 .enjoy-img {
     -webkit-animation: dance 5s infinite ease;
     animation: dance 5s infinite ease;
+    z-index: 3;
 }
 
 @-webkit-keyframes move {
